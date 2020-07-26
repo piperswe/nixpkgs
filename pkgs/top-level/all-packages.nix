@@ -1070,6 +1070,8 @@ in
 
   passExtensions = recurseIntoAttrs pass.extensions;
 
+  pmbootstrap = callPackage ../tools/misc/pmbootstrap { };
+
   asc-key-to-qr-code-gif = callPackage ../tools/security/asc-key-to-qr-code-gif { };
 
   gopass = callPackage ../tools/security/gopass { };

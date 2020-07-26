@@ -6350,6 +6350,12 @@
     email = "ppietrasa@gmail.com";
     name = "Piotr Pietraszkiewicz";
   };
+  piperswe = {
+    email = "contact@piperswe.me";
+    name = "Piper McCorkle";
+    github = "piperswe";
+    githubId = 1830959;
+  };
   pjbarnoy = {
     email = "pjbarnoy@gmail.com";
     github = "pjbarnoy";
